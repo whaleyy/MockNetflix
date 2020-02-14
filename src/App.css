@@ -13,6 +13,11 @@
   }
 }
 
+.App-logo1 {
+  align-self: flex-start;
+  width: 300px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
